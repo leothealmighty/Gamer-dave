@@ -1,0 +1,10 @@
+C:\Users\leo.garcia\OneDrive - tooelesd\Leo's Spicy Projects C#\Term One\GiveYourNumbersDaddyCalc\bin\Debug\GiveYourNumbersDaddyCalc.exe.config
+C:\Users\leo.garcia\OneDrive - tooelesd\Leo's Spicy Projects C#\Term One\GiveYourNumbersDaddyCalc\bin\Debug\GiveYourNumbersDaddyCalc.exe
+C:\Users\leo.garcia\OneDrive - tooelesd\Leo's Spicy Projects C#\Term One\GiveYourNumbersDaddyCalc\bin\Debug\GiveYourNumbersDaddyCalc.pdb
+C:\Users\leo.garcia\OneDrive - tooelesd\Leo's Spicy Projects C#\Term One\GiveYourNumbersDaddyCalc\obj\Debug\GiveYourNumbersDaddyCalc.csproj.AssemblyReference.cache
+C:\Users\leo.garcia\OneDrive - tooelesd\Leo's Spicy Projects C#\Term One\GiveYourNumbersDaddyCalc\obj\Debug\GiveYourNumbersDaddyCalc.DaddyCalc.resources
+C:\Users\leo.garcia\OneDrive - tooelesd\Leo's Spicy Projects C#\Term One\GiveYourNumbersDaddyCalc\obj\Debug\GiveYourNumbersDaddyCalc.Properties.Resources.resources
+C:\Users\leo.garcia\OneDrive - tooelesd\Leo's Spicy Projects C#\Term One\GiveYourNumbersDaddyCalc\obj\Debug\GiveYourNumbersDaddyCalc.csproj.GenerateResource.cache
+C:\Users\leo.garcia\OneDrive - tooelesd\Leo's Spicy Projects C#\Term One\GiveYourNumbersDaddyCalc\obj\Debug\GiveYourNumbersDaddyCalc.csproj.CoreCompileInputs.cache
+C:\Users\leo.garcia\OneDrive - tooelesd\Leo's Spicy Projects C#\Term One\GiveYourNumbersDaddyCalc\obj\Debug\GiveYourNumbersDaddyCalc.exe
+C:\Users\leo.garcia\OneDrive - tooelesd\Leo's Spicy Projects C#\Term One\GiveYourNumbersDaddyCalc\obj\Debug\GiveYourNumbersDaddyCalc.pdb
